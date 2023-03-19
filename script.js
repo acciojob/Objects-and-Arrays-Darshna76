@@ -11,5 +11,5 @@ const person = {
 const cap1 = {
       name: 'John Doe',
       age: 80
-
+};
 export {players,person,team,team1,cap1}
